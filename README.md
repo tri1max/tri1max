@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Math
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :375780@qq.com
-- 😄 Pronouns: what can I say
-- ⚡ Fun fact: often criticized by teachers
+- 😄 Pronouns: 5W
+- ⚡ Fun fact: 1+1=2-1
 
 <!---
 tri1max/tri1max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
